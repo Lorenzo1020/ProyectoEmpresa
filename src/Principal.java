@@ -12,6 +12,9 @@ public class Principal {
 		// nuestras aplicaciones funcionen correctamente
 		Scanner lectura = null;
 
+		System.out.println("Hola mundo " + 100);
+		System.out.println("Nuevos cambios");
+
 		int numEmp, menuPri, subMenu, indice;
 		String nombre, departamento;
 		float sueldo;
